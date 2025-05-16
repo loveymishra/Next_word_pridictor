@@ -3,8 +3,7 @@
 This project demonstrates how to build a simple next-word prediction model using Long Short-Term Memory (LSTM) networks. The model is trained on subtitles from the *Friends* TV show, enabling it to predict the next word in a sentence based on the context of prior words. By exploring this project, you'll see how deep learning can be applied to natural language processing tasks in a fun and engaging way.
 
 # For full step by step code tutorial
-Read My Article 👉 https://medium.com/@loveymishra60/building-a-simple-english-to-french-translator-with-deep-learning-920f41c66a6b
-
+Read My Article 👉 https://medium.com/@loveymishra60/building-a-deep-learning-cnn-model-to-classify-formula-1-cars-a-step-by-step-tutorial-d6779d70149e
 
 
 ## Table of Contents
